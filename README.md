@@ -1229,6 +1229,12 @@ To see old releases notes, [you can click here](https://github.com/mgonto/restan
 * Martin Gontovnikas ([@mgonto](https://twitter.com/mgonto))
 * Paul Dijou ([@paul_dijou](https://twitter.com/paul_dijou))
 
+# Tests
+
+`npm install`
+
+`npm test`
+
 # License
 
 The MIT License
